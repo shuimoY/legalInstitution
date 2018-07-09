@@ -1,0 +1,36 @@
+﻿找不同                     findEgg
+
+小时钟                     video_0
+
+拖拉王国运动会       video_1
+
+爱护花和草              interVideo_0
+
+怎样才能不马虎       interVideo_1
+
+这样做好不好	interVideo_2 
+
+我的家人                 interVideo_3 
+
+礼物的来源   		interVideo_4
+
+有精神才好   		interVideo_5
+
+和风儿一起玩    	interVideo_6
+
+我要求助吗    	interVideo_7 
+
+好书大家读    	interVideo_8
+
+他是小气鬼吗    	interVideo_9  該 下一步
+
+为什么玩不下去了    	interVideo_10    有背景音乐 背景音乐开始时间  該 下一步
+
+怎样养成整理的好习惯呢   interVideo_11 有背景音乐 背景音乐开始时间 
+
+生活中的合作		 interVideo_12 
+
+createjs.Sound.stop();
+		isPlayBg = false;
+ && videoPlayer.isPlaying
+
